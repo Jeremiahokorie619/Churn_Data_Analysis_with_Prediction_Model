@@ -75,4 +75,4 @@ The workflow will be summarized into 10 simple steps:
 #### STEP 9: ADD REPORTS FROM MODEL TESTING TO THE EXISTING DASHBOARD IN POWER BI
 #### STEP 10: DOCUMENT AND DELIVER INSIGHTS TO MANAGEMENT
 
-## NOTE!! see the codes and results document!!
+## NOTE!! see the FINAL INSIGHTS AND RECOMMENDATIONS document!!
