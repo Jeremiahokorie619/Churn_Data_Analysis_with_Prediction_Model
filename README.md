@@ -78,5 +78,26 @@ The workflow will be summarized into 10 simple steps:
 ### FINAL INSIGHTS AND RECOMMENDATIONS
 DASHBOARD SUMMARY PREVIEW
 
-![image](https://github.com/user-attachments/assets/1593d3b1-e273-46ce-9a15-81fee75c22a2)
+![image](https://github.com/user-attachments/assets/8600d733-c445-4dc7-bc2c-f7e21417b168)
 
+CHURN PREDICTION DASHBOARD PREVIEW
+
+![image](https://github.com/user-attachments/assets/c366c7f3-57ca-4216-83aa-94efd52093a4)
+
+
+#### INSIGHTS AND RECOMMENDATIONS
+
+1. ﻿for the *Total Customers and Churn Rate by Age Group* customers > 50 years had the highest Total Customers(2,729) and was 2,232.48% higher than < 20, which had the lowest Total Customers at 117.﻿﻿ The two major reasons for this age group churning is that they believe our competitors have better offers and better products. Our offers and products should be reviewed and improved upon to better suit the needs of a family since most of the customers > 50 years are in the married category
+
+2. Our product and offers do not seem to attract customers younger than 20 years of age and this might be a problem because younger customers are usually the biggest consumers of internet and streaming services.We can test with smaller, more affordable data offers catered to younger customers to see if their interest improves
+   
+3. Internet_service(93.71%),Phone_service(90.59%),﻿﻿Unlimited_data(80.08%) and Paperless_billing(74.60%) customers are churning the most. These might be the major services that we need to review and improve on the most since the data shows a high amount of skew in this direction.
+   
+4. ﻿﻿Fiber Optics(41.1%) and cable (25.7%) internet type users account for a significant portion(67%) of total churners. These products need to be looked into and improved on in terms of download speed and data offers, however, more analysis should be done to ensure that our data offers are similar or better than those of the competitors or at least our download speeds are higher to make up for average data offers(a better data offer will likely have more positive impact than a faster download speed).
+   
+
+
+﻿
+
+
+﻿
