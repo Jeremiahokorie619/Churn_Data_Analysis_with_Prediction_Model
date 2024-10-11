@@ -2,7 +2,8 @@
 This project aims to demonstrate the seamless use of SQL, Python and Power BI for analyzing customer churn data, training and testing a prediction model and finally reporting findings in a visually appealing way to management
 
 ### INTRODUCTION
-Churn is the term used to describe when a customer of a company chooses to either discontinue their service or patronize a competing company instead for the same service. There are several reasons why a customer may decide to "churn" and some of these reasons include(but not limited to):
+The company in question is an internet service provider looking to understand why their customers "churn".
+"Churn" is the term used to describe when a customer of a company chooses to either discontinue their service or patronize a competing company instead for the same service. There are several reasons why a customer may decide to "churn" and some of these reasons include(but not limited to):
 
 a. Pricing of the Product or service being too high
 
@@ -14,7 +15,7 @@ d. Poor Quality of Service/Product
 
 e. Other Personal reasons
 
-The Company in this Project is an online entertainment provider looking to figure out why their customers choose competing businesses instead of theirs
+The Company in this Project is an online entertainment provider looking to figure out why their customers choose competing businesses instead of theirs.
 
 The dataset in this project is called "Customer_Data.csv" and it has the following features:
 [Customer_ID,
@@ -78,10 +79,13 @@ The workflow will be summarized into 10 simple steps:
 ### FINAL INSIGHTS AND RECOMMENDATIONS
 DASHBOARD SUMMARY PREVIEW
 
-![image](https://github.com/user-attachments/assets/8600d733-c445-4dc7-bc2c-f7e21417b168)
+![summary snapshot](https://github.com/user-attachments/assets/5f719c58-1dcc-4fd2-9283-9f474d3eb56a)
+
 
 CHURN PREDICTION DASHBOARD PREVIEW
-![image](https://github.com/user-attachments/assets/50ea8d2e-56d5-4016-89fa-9a5d4706646d)
+
+![prediction snapshot](https://github.com/user-attachments/assets/50cb34e1-12ae-473b-8550-6664915afade)
+
 
 #### INSIGHTS AND RECOMMENDATIONS
 
