@@ -81,9 +81,7 @@ DASHBOARD SUMMARY PREVIEW
 ![image](https://github.com/user-attachments/assets/8600d733-c445-4dc7-bc2c-f7e21417b168)
 
 CHURN PREDICTION DASHBOARD PREVIEW
-
-![image](https://github.com/user-attachments/assets/c366c7f3-57ca-4216-83aa-94efd52093a4)
-
+![image](https://github.com/user-attachments/assets/50ea8d2e-56d5-4016-89fa-9a5d4706646d)
 
 #### INSIGHTS AND RECOMMENDATIONS
 
